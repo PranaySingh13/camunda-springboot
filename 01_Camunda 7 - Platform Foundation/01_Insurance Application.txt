@@ -1,0 +1,11 @@
+The Camundanzia insurance company would like to introduce BPM in their organisation. The first process they would like to automate is the insurance application for cars – one of the company’s core processes.
+
+A workshop together with the management and the department heads lead to the following process description:
+
+If a new insurance application is received, the application is classified. New applications have three risk groups.
+
+The risk group “green” describes all new applications without any risks. The insurance policy will be issued directly and will be sent to the policyholder.
+
+The risk group “red” pictures all new applications with at least one high risk factor. In the case of a “red” classification no policy will be issued. The application is rejected, and the policyholder gets a refusal message.
+
+The last risk group is “yellow”. This group contains all new applications with a medium risk. New applications, that are classified as “yellow” need an extra check. For that the employee’s expertise is important. The person, who checks the new application decides if the application is accepted or rejected. Depending on that decision the policy is issued or the application is rejected.
