@@ -1,0 +1,5 @@
+In exercise 1 a process model was designed together with the management of the Camundanzia insurance company. For more detailed information about the process, the process model is shown to the process owner Michaela Richardson. She thinks that the process is already well described. However, she has some more details to add:
+
+“If an application is classified ‘yellow’, the application is checked. That is correct. Before an employee decides on an application, he or she has the possibility to interrupt the check and request more documents from the applicant. As soon as the documents are received the application is checked again.
+
+If a check on an application takes longer than 2 days, I get a notification. If I get such notification, I try to accelerate the decision.”
